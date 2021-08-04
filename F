@@ -1,0 +1,25 @@
+************************** WinAnalyst CD 1.01.1 **********************
+ 
+Aim of WinAnalyst is to simplify the hacking & encryption techniques in this 
+tech world.
+  
+1. First of all, Make Sure to keep (WinAnalyst CD 1.01.1) folder > in 
+   root directory of D Drive Partition else some features will not be 
+   accessible to you.
+Directory of WinAnalyst Folder Must Be (D:\WinAnalyst CD\WinAnalyst 1.01.1)
+
+2. As this tool contains some malicious content, before running 
+   this program make sure to disable the real time protection of 
+   windows defender or any other antivirus.
+
+3. This software also contains some potential content which may help in
+    penetrating techniques, so make sure it may not affect yours or 
+    other's life.
+
+4. Enjoy :) WinAnalyst, ALL Yours !
+
+
+To access all the features please subscribe us by giving Rs.10 / Month.
+
+**************************************************************************
+Made By: Navi Singh
